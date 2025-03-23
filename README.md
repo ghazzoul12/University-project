@@ -90,7 +90,7 @@ The project applies multiple machine learning and deep learning models to improv
   - LSTM (Long Short-Term Memory) – Deep learning model for time-series forecasting.
   - Decision Tree Regressor & MLP Regressor – Additional machine learning models for enhanced prediction.
 
-- Evaluation & Results:**
+- Evaluation & Results:
   - Compare model RMSE and R² scores.
   - Visualize actual vs predicted prices to assess model accuracy.
 
