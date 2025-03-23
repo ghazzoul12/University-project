@@ -16,9 +16,9 @@ Special focus is given to the Hurst exponent and its role in modeling market beh
 - Empirical study using Apple stock price data.
 
 📌 Files available:
-- 📂 Python Notebook – Implementation of GBM. [🔗 View on GitHub](https://github.com/ghazzoul12/University-project/blob/main/GBM.ipynb)  
-- 📂 Apple Stock Dataset (CSV) – Historical stock price data. [🔗 View on GitHub](https://github.com/ghazzoul12/University-project/blob/main/AAPL.csv)  
-- 📂 Paper on Brownian Motion (PDF) – [🔗 View on GitHub](https://github.com/ghazzoul12/University-project/blob/main/Brownian%20motion)  
+- 📂 Python Notebook – Implementation of GBM. 
+- 📂 Apple Stock Dataset (CSV) – Historical stock price data.  
+- 📂 Paper on Brownian Motion (PDF)
 
 ---
 
@@ -34,8 +34,8 @@ The project examines CDS beta relative to equity indices and quantifies the sens
 - Key Finding: The beta of CDX IG to CDX HY is 3.33, reinforcing that HY reacts much more aggressively to market fluctuations than IG.
 
 📌 Files available:
-- 📂 Jupyter Notebook – CDS beta calculations. [🔗 View on GitHub](https://github.com/ghazzoul12/University-project/blob/main/Project_Creditandequitybeta.ipynb)  
-- 📂 Excel Dataset (XLSX) – Historical CDS data. [🔗 View on GitHub](https://github.com/ghazzoul12/University-project/blob/main/HistoricalIndices.xlsx)  
+- 📂 Jupyter Notebook – CDS beta calculations.
+- 📂 Excel Dataset (XLSX) – Historical CDS data.  
 
 ---
 
@@ -52,8 +52,8 @@ This project extends these methods using eGARCH models and explores the benefits
 - Key Finding: AgACI outperforms traditional eGARCH models, providing more stable and adaptive prediction intervals for financial markets.
 
 📌 Files available:
-- 📜 R Markdown File (.Rmd) – Implementation and analysis. [🔗 View on GitHub](https://github.com/ghazzoul12/University-project/blob/main/R%20markdown%20file%20for%20ACI%20AgACI)  
-- 📜 HTML File – [🔗 View on GitHub](https://github.com/ghazzoul12/University-project/blob/main/ACI%20AgACI)  
+- 📜 R Markdown File (.Rmd) – Implementation and analysis. 
+- 📜 HTML File 
 
 ---
 
@@ -69,9 +69,9 @@ The study examines key contributors such as GDP per capita, life expectancy, soc
 - Interpret findings and present results in R Markdown and HTML reports.  
 
 📌 Files available:
-- 📜 R Markdown File (.Rmd) – Implementation and analysis. [🔗 View on GitHub](https://github.com/ghazzoul12/University-project/blob/main/Happiness%20score%20Project)  
-- 📜 HTML Report – Final project report. [🔗 View on GitHub](https://github.com/ghazzoul12/University-project/blob/main/Happiness%20Score%20Analysis.html)  
-- 📂 Dataset (CSV) – Happiness Score data. [🔗 View on GitHub](https://github.com/ghazzoul12/University-project/blob/main/data%20for%20Happiness%20score.csv)
+- 📜 R Markdown File (.Rmd) – Implementation and analysis.  
+- 📜 HTML Report – Final project report. 
+- 📂 Dataset (CSV) – Happiness Score data. 
 
 
   ---
@@ -95,6 +95,6 @@ The project applies multiple machine learning and deep learning models to improv
   - Visualize actual vs predicted prices to assess model accuracy.
 
 📌 File available:
-- 📂 Code in a PDF Format – Implementation of models. [🔗 View on GitHub](https://github.com/ghazzoul12/University-project/blob/main/The%20full%20code%20for%20Stockprice%20prediction.pdf)
+- 📂 Code in a PDF Format – Implementation of models. 
 
 
