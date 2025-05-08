@@ -97,4 +97,22 @@ The project applies multiple machine learning and deep learning models to improv
 📌 File available:
 - 📂 Code in a PDF Format – Implementation of models. 
 
+  ---
+## Principal Component Analysis (PCA) 
+📌 Objective:
+Apply Principal Component Analysis (PCA) to a vehicle dataset to reduce feature dimensionality while preserving variance.
+Evaluate the effectiveness of PCA by comparing K-Nearest Neighbors (KNN) classification performance before and after dimensionality reduction.
 
+📌 Methods:
+
+-Standardization of features to ensure equal scaling.
+-Application of PCA to identify principal components and retain maximum variance.
+-Visualization techniques including both 2D and 3D scatter plots.
+-Pairplots for component interactions.
+-KNN model evaluation with cross-validation before and after dimensionality reduction.
+
+
+
+📌 Files available:
+
+📂 Python Notebook – PCA
