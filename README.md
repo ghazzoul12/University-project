@@ -16,9 +16,9 @@ Special focus is given to the Hurst exponent and its role in modeling market beh
 - Empirical study using Apple stock price data.
 
 📌 Files available:
-- 📂 Python Notebook – Implementation of GBM. 
-- 📂 Apple Stock Dataset (CSV) – Historical stock price data.  
-- 📂 Paper on Brownian Motion (PDF)
+- 📂 Python Notebook – Implementation of GBM. [View](https://github.com/ghazzoul12/University-project/blob/main/Brownian_Motion/GBM.ipynb)
+- 📂 Apple Stock Dataset (CSV) – Historical stock price data.  [dataset](https://github.com/ghazzoul12/University-project/blob/main/Brownian_Motion/AAPL.csv)
+- 📂 Paper on Brownian Motion (PDF)[View](https://github.com/ghazzoul12/University-project/blob/main/Brownian_Motion/Brownian%20motion)
 
 ---
 
@@ -34,8 +34,8 @@ The project examines CDS beta relative to equity indices and quantifies the sens
 - Key Finding: The beta of CDX IG to CDX HY is 3.33, reinforcing that HY reacts much more aggressively to market fluctuations than IG.
 
 📌 Files available:
-- 📂 Jupyter Notebook – CDS beta calculations.
-- 📂 Excel Dataset (XLSX) – Historical CDS data.  
+- 📂 Jupyter Notebook – CDS beta calculations.[🔗 View on GitHub](https://github.com/ghazzoul12/University-project/blob/main/Credit_Equity_Beta/Project_Creditandequitybeta.ipynb)
+- 📂 Excel Dataset (XLSX) – Historical CDS data. [🔗](https://github.com/ghazzoul12/University-project/blob/main/Credit_Equity_Beta/HistoricalIndices.xlsx) 
 
 ---
 
@@ -52,7 +52,7 @@ This project extends these methods using eGARCH models and explores the benefits
 - Key Finding: AgACI outperforms traditional eGARCH models, providing more stable and adaptive prediction intervals for financial markets.
 
 📌 Files available:
-- 📜 R Markdown File (.Rmd) – Implementation and analysis. 
+- 📜 R Markdown File (.Rmd) – Implementation and analysis. [🔗 View on GitHub](https://github.com/ghazzoul12/University-project/blob/main/ACI_AgACI/R%20markdown%20file%20for%20ACI%20AgACI)
 - 📜 HTML File 
 
 ---
@@ -69,9 +69,9 @@ The study examines key contributors such as GDP per capita, life expectancy, soc
 - Interpret findings and present results in R Markdown and HTML reports.  
 
 📌 Files available:
-- 📜 R Markdown File (.Rmd) – Implementation and analysis.  
+- 📜 R Markdown File (.Rmd) – Implementation and analysis.  [🔗](https://github.com/ghazzoul12/University-project/blob/main/Happiness_Score/Happiness%20score%20Project)
 - 📜 HTML Report – Final project report. 
-- 📂 Dataset (CSV) – Happiness Score data. 
+- 📂 Dataset (CSV) – Happiness Score data. [🔗](https://github.com/ghazzoul12/University-project/blob/main/Happiness_Score/data%20for%20Happiness%20score.csv)
 
 
   ---
@@ -95,7 +95,7 @@ The project applies multiple machine learning and deep learning models to improv
   - Visualize actual vs predicted prices to assess model accuracy.
 
 📌 File available:
-- 📂 Code in a PDF Format – Implementation of models. 
+- 📂 Code in a PDF Format – Implementation of models.[🔗 View on GitHub](https://github.com/ghazzoul12/University-project/blob/main/Stock_Prediction/The%20full%20code%20for%20Stockprice%20prediction.pdf)
 
   ---
 ## Principal Component Analysis (PCA) 
@@ -115,4 +115,5 @@ Evaluate the effectiveness of PCA by comparing K-Nearest Neighbors (KNN) classif
 
 📌 Files available:
 
-📂 Python Notebook – PCA
+📂 Python Notebook – PCA [🔗 View on GitHub](https://github.com/ghazzoul12/University-project/blob/main/PCA_Project/PCA_project.ipynb)
+
